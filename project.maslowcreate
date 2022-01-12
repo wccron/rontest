@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "rontest",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 886075,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9869791666666666,
+            "y": 0.5,
+            "uniqueID": 398893,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
